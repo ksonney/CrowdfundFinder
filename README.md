@@ -1,12 +1,12 @@
-# Coopsy is/will be a co-op style patreon and etsy replacement.
+# CrowdfundFinder is a tool to help creators find the best place for them to fund their work.
+
+The goal of this project is to put together a tool to help creators find ways to crowdfund their projects. This is meant to help content creators and sellers find the RIGHT solution for their needs, and not just using the "big players" by default.
 
 Please add issues to cover the basic functionality, written as *User Stories.* Some examples of this is :
 
 "As a Creator, I want to offer multiple membership levels" 
 "As a Patron, I want to only pay once a month to all my creators"
 "As a Seller, I want to be able to set a prices per item"
-
-There is a lot of ground to cover, and a lot of problems to be worked out. This repository is for tracking just that, and then building the code to go with it. 
 
 There are Several *User Roles* to consider for this project
 
@@ -21,5 +21,3 @@ There are Several *User Roles* to consider for this project
 When writing user stories, consider the use case for each. While there will be overlaps in these definitions, specific feature requests should have a specific role in mind. For example, a *Creator* would also be a *Moderator* for their personal area(s). 
 
 In cases where a shared function is needed for all roles, the *User* role should be specified.
-
-
